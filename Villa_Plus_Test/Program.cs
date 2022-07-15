@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Villa_Plus_Test;
+﻿using Villa_Plus_Test;
 
 string lineSep = "---------------------------------------------------------------------------------------";
 string header = $"|{" Name ",-10}|{" Quantity ",10}|{" Price ",10}|{" Final Price ",15}|{" Discount Type ",-30}|";
